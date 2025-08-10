@@ -1,0 +1,18 @@
+.red-title {
+    background-color: rgb(243, 189, 197);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blue-title {
+    color: #0000fa;
+    font-size: 36pt;
+}
+
+.med-font {
+    font-size: 24pt;
+}
+
+#green-title {
+    background-color: rgb(184, 247, 208);
+    font-weight: 700;
+}
